@@ -165,7 +165,7 @@ Browse all major UI prompt categories from [TypeUI Prompts](https://www.typeui.s
 
 ## CLI commands
 
-All commands run via `npx typeui.sh`. Add `--help` to any command to see its options, and pass `--format design` to write `DESIGN.md` instead of `SKILL.md` (the default).
+All commands run via `npx typeui.sh`. Add `--help` to any command to see its options.
 
 | | Command | What it does |
 | :---: | :--- | :--- |
