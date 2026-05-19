@@ -4,7 +4,7 @@
 
 <br /> <br />
 
-[TypeUI](https://www.typeui.sh) is an open-source command line interface (CLI) that generates, updates, and can download `SKILL.md` or `DESIGN.md` files with design system specifications to instruct agentic tools and LLM's to use a certain design when building interfaces.
+[TypeUI](https://www.typeui.sh) is a new platform where you can use design skills, UI prompts, and other resources to enhance AI capabilities to generate better user interfaces and design when building websites and applications. The resources from this repository will work with any AI provider, given they support markdown files or general prompting.
 
 ## Getting started
 
@@ -615,6 +615,16 @@ Browse all major UI prompt categories from [TypeUI Prompts](https://www.typeui.s
     </td>
   </tr>
 </table>
+
+## UI/UX Fundamentals
+
+Use our official skill for UI/UX fundamentals based on years of experience, knowledge and data from the design world to make sure that any UI you generate together with the design skills and UI prompts from TypeUI will keep fundamental design principles in order, such as spacing, typography, color contrasts, and more.
+
+Run this command to install it locally:
+
+```
+npx skills add https://github.com/bergside/typeui --skill typeui-fundamentals
+```
 
 ## CLI commands
 
