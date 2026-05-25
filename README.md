@@ -704,7 +704,7 @@ Get access to enhanched design skill files, UI prompts for layouts and a private
 
 ## Sponsors
 
-A huge thank you to the companies supporting our open-source work. Want to see your logo here? [Become a sponsor](https://www.typeui.sh/sponsor).
+A huge thank you to the companies supporting our open-source work.
 
 <table width="100%">
   <tr>
@@ -714,11 +714,7 @@ A huge thank you to the companies supporting our open-source work. Want to see y
         <br /><b>Skybridge</b>
       </a>
     </td>
-    <td align="center" width="33%" valign="middle">
-      <a href="https://www.typeui.sh/sponsor">
-        <b>+ Your logo here</b>
-        <br /><sub>Become a sponsor</sub>
-      </a>
-    </td>
   </tr>
 </table>
+
+Want to see your logo here? [Become a sponsor](https://www.typeui.sh/sponsor).
