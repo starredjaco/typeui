@@ -44,12 +44,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
   </tr>
 </table>
 
-You can also use the TypeUI CLI directly:
-
-```bash
-npx typeui.sh --help
-```
-
 ## Design skills
 
 Check out all [design skills](https://www.typeui.sh/design-skills). Available in both `DESIGN.md` and `SKILL.md` formats.
