@@ -1,3 +1,5 @@
+<!-- mcp-name: io.github.bergside/typeui -->
+
 # TypeUI - Design skills and prompts for AI
 
 [TypeUI](https://www.typeui.sh) is an AI-first platform where you can use design skills, UI prompts, and other resources to enhance AI capabilities to generate better user interfaces and design when building websites and applications. The resources from this repository will work with any AI provider, given they support markdown files or general prompting.

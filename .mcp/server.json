@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.bergside/typeui",
+  "title": "TypeUI",
+  "description": "Design systems, UI prompts, and layout variations for AI coding tools.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.typeui.sh",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.typeui.sh/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/bergside/typeui",
+    "source": "github"
+  }
+}
