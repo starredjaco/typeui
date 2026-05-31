@@ -6,38 +6,41 @@
 
 Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then ask for UI in plain language while TypeUI supplies design systems, prompts, and layout variation guidance.
 
-<table>
+<table width="100%">
   <tr>
-    <th align="left">Tool</th>
-    <th align="left">Install guide</th>
-    <th align="left">What it unlocks</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.typeui.sh/ai-tools-logos/light/codex.svg" alt="Codex logo" width="24" />
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/codex">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/codex.svg" alt="Codex logo" height="48" />
+        <br /><br />
+        <b>Codex</b>
+      </a>
       <br />
-      <b>Codex</b>
+      <sub>Connect Codex to TypeUI MCP automatically with the TypeUI Codex plugin.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/codex"><b>Install in Codex →</b></a>
     </td>
-    <td><a href="https://www.typeui.sh/docs/guides/codex">Install TypeUI in Codex</a></td>
-    <td>Use the TypeUI Codex plugin to connect Codex to TypeUI MCP automatically.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.typeui.sh/ai-tools-logos/light/claude-color.svg" alt="Claude logo" width="24" />
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/claude">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/claude-color.svg" alt="Claude logo" height="48" />
+        <br /><br />
+        <b>Claude</b>
+      </a>
       <br />
-      <b>Claude</b>
+      <sub>Give Claude access to curated design guidance while it writes or refactors UI.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/claude"><b>Install in Claude →</b></a>
     </td>
-    <td><a href="https://www.typeui.sh/docs/guides/claude">Install TypeUI in Claude</a></td>
-    <td>Give Claude access to curated design guidance while it writes or refactors UI.</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://www.typeui.sh/ai-tools-logos/light/cursor.svg" alt="Cursor logo" width="24" />
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/cursor">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/cursor.svg" alt="Cursor logo" height="48" />
+        <br /><br />
+        <b>Cursor</b>
+      </a>
       <br />
-      <b>Cursor</b>
+      <sub>Use the TypeUI Cursor plugin while Cursor builds screens, sections, and variations.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/cursor"><b>Install in Cursor →</b></a>
     </td>
-    <td><a href="https://www.typeui.sh/docs/guides/cursor">Install TypeUI in Cursor</a></td>
-    <td>Use the TypeUI Cursor plugin while Cursor builds screens, sections, and variations.</td>
   </tr>
 </table>
 
