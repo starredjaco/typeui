@@ -1,0 +1,21 @@
+{
+  "name": "typeui",
+  "version": "1.0.0",
+  "description": "Connect Antigravity CLI to TypeUI for curated design systems, UI prompts, and layout variations.",
+  "author": {
+    "name": "Bergside LLC",
+    "email": "zoltan@bergside.com",
+    "url": "https://www.typeui.sh"
+  },
+  "homepage": "https://www.typeui.sh",
+  "repository": "https://github.com/bergside/typeui",
+  "license": "MIT",
+  "keywords": [
+    "typeui",
+    "antigravity-cli",
+    "mcp",
+    "ui",
+    "design-systems",
+    "prompts"
+  ]
+}

@@ -39,7 +39,7 @@ const UNIVERSAL_DEFAULT_AGENT_LIST = [
   "Cline",
   "Codex",
   "Cursor",
-  "Gemini CLI",
+  "Antigravity CLI",
   "GitHub Copilot",
   "Grok",
   "Kimi Code CLI",

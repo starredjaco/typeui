@@ -68,15 +68,15 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <a href="https://www.typeui.sh/docs/guides/opencode"><b>Install in OpenCode →</b></a>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.typeui.sh/docs/guides/gemini-cli">
-        <img src="https://www.typeui.sh/ai-tools-logos/light/gemini-cli.svg" alt="Gemini CLI logo" width="48" height="48" />
+      <a href="https://www.typeui.sh/docs/guides/antigravity-cli">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/antigravity.svg" alt="Antigravity CLI logo" width="48" height="48" />
         <br /><br />
-        <b>Gemini CLI</b>
+        <b>Antigravity CLI</b>
       </a>
       <br />
-      <sub>Install the TypeUI Gemini CLI extension for UI generation workflows.</sub>
+      <sub>Install the TypeUI Antigravity CLI plugin for UI generation workflows.</sub>
       <br /><br />
-      <a href="https://www.typeui.sh/docs/guides/gemini-cli"><b>Install in Gemini CLI →</b></a>
+      <a href="https://www.typeui.sh/docs/guides/antigravity-cli"><b>Install in Antigravity CLI →</b></a>
     </td>
   </tr>
 </table>
