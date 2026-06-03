@@ -207,7 +207,17 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/replit"><b>Open Replit guide →</b></a>
     </td>
-    <td align="center" width="33%"></td>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/v0">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/v0.svg" alt="v0 logo" width="48" height="48" />
+        <br /><br />
+        <b>v0</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to v0.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/v0"><b>Open v0 guide →</b></a>
+    </td>
   </tr>
 </table>
 
