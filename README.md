@@ -138,6 +138,19 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <a href="https://www.typeui.sh/docs/guides/zed"><b>Open Zed guide →</b></a>
     </td>
     <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/github-copilot">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/githubcopilot.svg" alt="GitHub Copilot logo" width="48" height="48" />
+        <br /><br />
+        <b>GitHub Copilot</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to GitHub Copilot.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/github-copilot"><b>Open GitHub Copilot guide →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/cline">
         <img src="https://www.typeui.sh/ai-tools-logos/light/cline.svg" alt="Cline logo" width="48" height="48" />
         <br /><br />
@@ -148,8 +161,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/cline"><b>Install in Cline →</b></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/qwen">
         <img src="https://www.typeui.sh/ai-tools-logos/light/qwen.svg" alt="Qwen logo" width="120" height="40" />
@@ -172,6 +183,8 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/amp"><b>Open Amp guide →</b></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/goose">
         <img src="https://www.typeui.sh/ai-tools-logos/light/goose.svg" alt="Goose logo" width="48" height="48" />
@@ -183,8 +196,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/goose"><b>Open Goose guide →</b></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/lovable">
         <img src="https://www.typeui.sh/ai-tools-logos/light/lovable-logo-icon.svg" alt="Lovable logo" width="48" height="48" />
@@ -207,6 +218,8 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/replit"><b>Open Replit guide →</b></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/v0">
         <img src="https://www.typeui.sh/ai-tools-logos/light/v0.svg" alt="v0 logo" width="48" height="48" />
@@ -218,6 +231,8 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/v0"><b>Open v0 guide →</b></a>
     </td>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td>
   </tr>
 </table>
 
