@@ -57,6 +57,17 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <a href="https://www.typeui.sh/docs/guides/grok"><b>Open Grok guide →</b></a>
     </td>
     <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/mistral">
+        <img src="https://www.typeui.sh/ai-tools-logos/light/mistral-ai.svg" alt="Mistral logo" width="69" height="48" />
+        <br /><br />
+        <b>Mistral</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to Mistral.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/mistral"><b>Open Mistral guide →</b></a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/opencode">
         <img src="https://www.typeui.sh/ai-tools-logos/light/opencode.svg" alt="OpenCode logo" width="48" height="48" />
         <br /><br />
@@ -67,6 +78,8 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/opencode"><b>Install in OpenCode →</b></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/vscode">
         <img src="https://www.typeui.sh/ai-tools-logos/light/vscode.svg" alt="Visual Studio Code logo" width="48" height="48" />
@@ -78,8 +91,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/vscode"><b>Install in VS Code →</b></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/antigravity">
         <img src="https://www.typeui.sh/ai-tools-logos/light/antigravity.svg" alt="Antigravity logo" width="48" height="48" />
@@ -102,6 +113,8 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/windsurf"><b>Install in Windsurf →</b></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/jetbrains">
         <img src="https://www.typeui.sh/ai-tools-logos/light/junie.svg" alt="Junie logo" width="48" height="48" />
@@ -113,8 +126,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/jetbrains"><b>Install in JetBrains →</b></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/zed">
         <img src="https://www.typeui.sh/ai-tools-logos/light/zed.svg" alt="Zed logo" width="48" height="48" />
@@ -137,6 +148,8 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/cline"><b>Install in Cline →</b></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/qwen">
         <img src="https://www.typeui.sh/ai-tools-logos/light/qwen.svg" alt="Qwen logo" width="120" height="40" />
@@ -148,8 +161,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/qwen"><b>Open Qwen guide →</b></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/amp">
         <img src="https://www.typeui.sh/ai-tools-logos/light/ampcode.svg" alt="Amp logo" width="94" height="48" />
@@ -172,6 +183,8 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/goose"><b>Open Goose guide →</b></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/lovable">
         <img src="https://www.typeui.sh/ai-tools-logos/light/lovable-logo-icon.svg" alt="Lovable logo" width="48" height="48" />
@@ -182,19 +195,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <sub>Add the hosted TypeUI MCP server to Lovable.</sub>
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/lovable"><b>Open Lovable guide →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.typeui.sh/docs/guides/mistral">
-        <img src="https://www.typeui.sh/ai-tools-logos/light/mistral-ai.svg" alt="Mistral logo" width="69" height="48" />
-        <br /><br />
-        <b>Mistral</b>
-      </a>
-      <br />
-      <sub>Add the hosted TypeUI MCP server to Mistral.</sub>
-      <br /><br />
-      <a href="https://www.typeui.sh/docs/guides/mistral"><b>Open Mistral guide →</b></a>
     </td>
     <td align="center" width="33%"></td>
     <td align="center" width="33%"></td>
