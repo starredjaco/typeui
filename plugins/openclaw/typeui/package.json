@@ -1,5 +1,5 @@
 {
-  "name": "@bergside/typeui-openclaw",
+  "name": "@zoltanszogyenyi/typeui-openclaw",
   "version": "1.0.0",
   "description": "OpenClaw plugin package for TypeUI MCP setup and TypeUI design guidance.",
   "type": "module",
@@ -45,7 +45,7 @@
       "./index.js"
     ],
     "install": {
-      "clawhubSpec": "@bergside/typeui-openclaw",
+      "clawhubSpec": "@zoltanszogyenyi/typeui-openclaw",
       "defaultChoice": "clawhub",
       "minHostVersion": ">=2026.6.11-beta.2"
     },
