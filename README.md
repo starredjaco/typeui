@@ -242,7 +242,17 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/hermes"><b>Open Hermes guide →</b></a>
     </td>
-    <td align="center" width="33%"></td>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/openclaw">
+        <img src="./ai-tools-logos/light/openclaw.svg" alt="OpenClaw logo" width="48" height="48" />
+        <br /><br />
+        <b>OpenClaw</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to OpenClaw.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/openclaw"><b>Open OpenClaw guide →</b></a>
+    </td>
   </tr>
 </table>
 

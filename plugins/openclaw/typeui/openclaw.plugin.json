@@ -1,0 +1,36 @@
+{
+  "id": "typeui",
+  "name": "TypeUI",
+  "description": "Connect OpenClaw-managed agents to TypeUI MCP for design skills, UI prompts, and layout variations.",
+  "icon": "https://assets.typeui.sh/typeui-logo/typeui-icon-400.png",
+  "version": "1.0.0",
+  "skills": [
+    "skills/typeui"
+  ],
+  "contracts": {
+    "tools": [
+      "typeui_install_mcp",
+      "typeui_mcp_status"
+    ]
+  },
+  "commandAliases": [
+    {
+      "name": "typeui",
+      "cliCommand": "typeui"
+    }
+  ],
+  "activation": {
+    "onStartup": false,
+    "onCommands": [
+      "typeui"
+    ],
+    "onCapabilities": [
+      "tool"
+    ]
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

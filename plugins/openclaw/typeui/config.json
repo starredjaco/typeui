@@ -1,0 +1,11 @@
+{
+  "mcp": {
+    "servers": {
+      "typeui": {
+        "url": "https://mcp.typeui.sh",
+        "transport": "streamable-http",
+        "auth": "oauth"
+      }
+    }
+  }
+}

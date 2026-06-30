@@ -14,6 +14,7 @@ Tool-specific TypeUI plugins live in provider namespaces:
 - `opencode/typeui` for the OpenCode helper plugin and MCP configuration.
 - `antigravity/typeui` for the Antigravity CLI plugin and MCP configuration.
 - `hermes/typeui` for the Hermes Agent MCP configuration guide.
+- `openclaw/typeui` for the OpenClaw MCP configuration guide.
 - `zed/typeui` for the Zed MCP server extension package.
 
 Marketplace entries can still expose each plugin as `typeui`; the namespaced folders only keep repository ownership clear as more tool plugins are added.
