@@ -1,0 +1,4 @@
+include README.md
+include plugin.yaml
+include config.yaml
+recursive-include typeui_hermes/skills *.md

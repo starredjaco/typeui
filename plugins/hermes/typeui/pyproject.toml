@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "typeui-hermes"
+version = "1.0.0"
+description = "Hermes Agent plugin for installing and inspecting the TypeUI MCP server."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Bergside LLC", email = "zoltan@bergside.com" }
+]
+keywords = ["hermes-agent", "typeui", "mcp", "design-skills", "frontend"]
+dependencies = [
+  "PyYAML>=6.0"
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Environment :: Console",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Software Development :: User Interfaces",
+]
+
+[project.urls]
+Homepage = "https://www.typeui.sh"
+Documentation = "https://www.typeui.sh/docs/guides/hermes"
+Repository = "https://github.com/bergside/typeui"
+
+[project.entry-points."hermes_agent.plugins"]
+typeui = "typeui_hermes"
+
+[tool.setuptools.packages.find]
+include = ["typeui_hermes*"]
+
+[tool.setuptools.package-data]
+typeui_hermes = ["skills/typeui/SKILL.md"]

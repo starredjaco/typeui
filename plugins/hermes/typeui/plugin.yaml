@@ -1,0 +1,8 @@
+name: typeui
+version: 1.0.0
+description: Install and inspect the hosted TypeUI MCP server for Hermes Agent.
+author: Bergside LLC
+homepage: https://www.typeui.sh/docs/guides/hermes
+provides_tools:
+  - typeui_install_mcp
+  - typeui_mcp_status

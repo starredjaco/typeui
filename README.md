@@ -238,7 +238,7 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
         <b>Hermes</b>
       </a>
       <br />
-      <sub>Add the hosted TypeUI MCP server to Hermes Agent.</sub>
+      <sub>Install the TypeUI MCP plugin for Hermes Agent.</sub>
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/hermes"><b>Open Hermes guide →</b></a>
     </td>
