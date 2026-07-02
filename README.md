@@ -57,6 +57,41 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <a href="https://www.typeui.sh/docs/guides/grok"><b>Open Grok guide →</b></a>
     </td>
     <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/z-ai">
+        <img src="./ai-tools-logos/light/zai.svg" alt="Z.ai logo" width="48" height="48" />
+        <br /><br />
+        <b>Z.ai</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to Z.ai ZCode.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/z-ai"><b>Open Z.ai guide →</b></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/hermes">
+        <img src="./ai-tools-logos/light/hermes.svg" alt="Hermes logo" width="48" height="48" />
+        <br /><br />
+        <b>Hermes</b>
+      </a>
+      <br />
+      <sub>Install the TypeUI MCP plugin for Hermes Agent.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/hermes"><b>Open Hermes guide →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.typeui.sh/docs/guides/openclaw">
+        <img src="./ai-tools-logos/light/openclaw.svg" alt="OpenClaw logo" width="48" height="48" />
+        <br /><br />
+        <b>OpenClaw</b>
+      </a>
+      <br />
+      <sub>Add the hosted TypeUI MCP server to OpenClaw.</sub>
+      <br /><br />
+      <a href="https://www.typeui.sh/docs/guides/openclaw"><b>Open OpenClaw guide →</b></a>
+    </td>
+    <td align="center" width="33%">
       <a href="https://www.typeui.sh/docs/guides/mistral">
         <img src="./ai-tools-logos/light/mistral-ai.svg" alt="Mistral logo" width="69" height="48" />
         <br /><br />
@@ -230,28 +265,6 @@ Install TypeUI where you build. Connect your AI coding tool to TypeUI MCP, then 
       <sub>Add the hosted TypeUI MCP server to v0.</sub>
       <br /><br />
       <a href="https://www.typeui.sh/docs/guides/v0"><b>Open v0 guide →</b></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.typeui.sh/docs/guides/hermes">
-        <img src="./ai-tools-logos/light/hermes.svg" alt="Hermes logo" width="48" height="48" />
-        <br /><br />
-        <b>Hermes</b>
-      </a>
-      <br />
-      <sub>Install the TypeUI MCP plugin for Hermes Agent.</sub>
-      <br /><br />
-      <a href="https://www.typeui.sh/docs/guides/hermes"><b>Open Hermes guide →</b></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.typeui.sh/docs/guides/openclaw">
-        <img src="./ai-tools-logos/light/openclaw.svg" alt="OpenClaw logo" width="48" height="48" />
-        <br /><br />
-        <b>OpenClaw</b>
-      </a>
-      <br />
-      <sub>Add the hosted TypeUI MCP server to OpenClaw.</sub>
-      <br /><br />
-      <a href="https://www.typeui.sh/docs/guides/openclaw"><b>Open OpenClaw guide →</b></a>
     </td>
   </tr>
 </table>
